@@ -20,7 +20,7 @@ body {
     margin: 0;
 }
 .video {
-    width: 100%;
+    width: 50%;
 }
 .gallery {
     display: grid;
