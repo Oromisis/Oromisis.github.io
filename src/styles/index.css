@@ -20,7 +20,9 @@ body {
     margin: 0;
 }
 .video {
-    width: 50%;
+    display: block;
+    margin: 8px auto;
+    width: 75%;
 }
 .gallery {
     display: grid;
