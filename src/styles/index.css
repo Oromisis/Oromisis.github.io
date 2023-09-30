@@ -22,7 +22,7 @@ body {
 .video {
     display: block;
     margin: 8px auto;
-    width: 50%;
+    width: 60%;
 }
 .gallery {
     display: grid;
