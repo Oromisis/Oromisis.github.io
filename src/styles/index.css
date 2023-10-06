@@ -19,10 +19,24 @@ body {
 
     margin: 0;
 }
-.video {
-    display: block;
-    margin: 8px auto;
-    width: 65%;
+@media (max-width: 790px) {
+    h1 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .video {
+        width: 75%;
+    }
+}
+
+@media (min-width: 791px) {
+    .video {
+        width: 60%;
+    }
 }
 .gallery {
     display: grid;
