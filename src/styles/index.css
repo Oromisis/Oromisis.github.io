@@ -29,8 +29,8 @@ body {
     }
 
     .video {
-        margin: 8px;
         display: block;
+        margin: 8px;
         width: 75%;
     }
 }
