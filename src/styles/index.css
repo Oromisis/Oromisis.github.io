@@ -29,12 +29,14 @@ body {
     }
 
     .video {
+        display: block;
         width: 75%;
     }
 }
 
 @media (min-width: 791px) {
     .video {
+        display: block;
         margin: 8px auto;
         width: 50%;
     }
