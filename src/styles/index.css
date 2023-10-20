@@ -33,26 +33,13 @@ body {
         margin: 8px;
         width: 75%;
     }
-    
-    .gallery img {
-        width: 100%;
-        height: 100%;
-        max-width: none;
-        max-height: none;
-    }
 }
+
 @media (min-width: 791px) {
     .video {
         display: block;
         margin: 8px auto;
         width: 50%;
-    }
-    @media (min-width: 1200px) {
-    .gallery img {
-        width: 25%;
-        height: 25%;
-        max-width: none;
-        max-height: none;
     }
 }
 .gallery {
