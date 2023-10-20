@@ -49,8 +49,8 @@ body {
     }
     @media (min-width: 1200px) {
     .gallery img {
-        width: 75%;
-        height: 75%;
+        width: 25%;
+        height: 25%;
         max-width: none;
         max-height: none;
     }
@@ -78,8 +78,8 @@ body {
 }
 
 .gallery img {
-    height: 75%;
-    width: 75%;
+    height: 100%;
+    width: 100%;
 
     border-radius: 8px;
     object-fit: cover;
