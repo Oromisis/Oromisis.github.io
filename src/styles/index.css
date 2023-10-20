@@ -81,7 +81,7 @@ body {
 
 @media (min-width: 1200px) {
     .gallery img {
-        width: 80%;
+        width: 60%;
     }
 }
 
