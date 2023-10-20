@@ -78,9 +78,6 @@ body {
 }
 
 .gallery img {
-    height: 100%;
-    width: 100%;
-
     border-radius: 8px;
     object-fit: cover;
 }
@@ -154,7 +151,3 @@ footer {
     }
     
   }
-        width: 25%;
-        height: 25%;
-    }
-}
